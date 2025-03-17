@@ -37,7 +37,9 @@ nav {
     margin: 0 auto;
     padding: 0 20px;
 }
-
+.nav-bar img{
+    width: 50px;
+}
 .nav-list {
     list-style: none;
     display: flex;
